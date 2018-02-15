@@ -11,7 +11,7 @@ My example Jekyll code snippet:
 
 {% highlight python %}
 def main():
-		print("This doesn't seem too bad!")
+	print("This doesn't seem too bad!")
 
 main()
 {% endhighlight %}
